@@ -1,0 +1,17 @@
+	-El expediente es una versión preliminar, sin firmas. 
+	-No tiene memorando. 
+	-No tiene factura.
+	-No se remite la planificación. 
+	-No tiene matriz de valores a pagar. 
+*Novedades en el cronograma: 
+	-El mes de reporte no es correcto.  
+	-No constan todos los productos del contrato. 
+	-En el contrato ya existe un producto que hace referencia al informe final, no es necesario duplicarlo. 
+	-Existe inconsistencia entre los hitos planificados vs hitos cumplidos hasta julio. 
+*Novedades en el informe de actividades: 
+	-Se debe hacer constar que existen productos que ya fueron entregados a satisfacción.
+	-Deben existir verificables por cada una de las actividades y los mismos deben ser enlistados en la sección medios de verificación 	y anexos.
+	-Se solicita verificar la frase que se encuentra en la parte superior de la firma del administrador del contrato. 
+	-Notas conforme lo dispuesto en la Circular Nro. INEC-CGAF-DIFI-2021-0003-C de fecha 22 de junio de 2021 : 
+	-El expediente debe estar debidamente organizado en una vincha sin clips o grapas. (Memorando del administrador, Factura, Informe 	de actividades, Anexos, Matriz de valores por pagar, Copia de contrato, Copia de Certificación actualizada).
+	-En el caso de ser un expediente firmado electrónicamente adicionalmente a lo mencionado, debe entregarse un CD en el que se pueda 	verificar la validez de las firmas)
